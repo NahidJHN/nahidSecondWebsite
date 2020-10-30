@@ -1,0 +1,383 @@
+@media (max-width:768px) {
+
+    .logoContainer .logo {
+        padding: 9px 35px;
+    }
+
+    .logoBlock {
+        width: 100%;
+        padding: 9px 35px;
+    }
+
+    .wraper .nav ul,
+    .aboutSectionWraper .nav ul,
+    .rentalSectionWraper .nav ul,
+    .galleryWraper .nav ul,
+    .blogPageWraper .nav ul {
+        width: 99%;
+    }
+
+    .nav ul li a {
+        padding: 11px 13px;
+        font-size: 14px;
+    }
+
+    .ourDetailsBlock h1 {
+        padding: 20px 9px;
+        font-size: 32px;
+    }
+
+    .detailsBlock {
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .ourDetailsBlock h1 {
+        padding: 0px 0px;
+        font-size: 21px;
+    }
+
+    .requestQuoteOverlay:before,
+    .requestQuoteOverlay:after {
+        display: none;
+    }
+
+    .requestQuoteOverlay {
+        width: 54%;
+        top: 0;
+        right: 0;
+        height: 100%;
+    }
+
+    .detailsIcon {
+        width: 60px;
+        height: 60px;
+        font-size: 28px;
+        padding: 3px;
+        line-height: inherit;
+    }
+
+    .requestQuoteOverlay form input,
+    .requestQuoteOverlay form select,
+    .requestQuoteOverlay form textarea {
+        margin-top: 50px
+    }
+
+    .makeAnWeuioment {
+        height: 440px;
+    }
+
+    .makeAnEquipmentOverlay h1 {
+        font-size: 40px;
+    }
+
+    .rentalServices {
+        width: 49%;
+        min-width: 290px;
+        margin-bottom: 10px;
+    }
+
+    .blogWraper {
+        width: 100%;
+    }
+
+    .blogText a {
+        width: 100%;
+    }
+
+    .blogText p {
+        width: 100%;
+    }
+
+    .blogCalenderDetails p {
+        margin-left: 0;
+    }
+
+    .blogText {
+        padding: 0px 0px;
+    }
+
+    .blogPhoto {
+        height: 400px
+    }
+
+    .footerQuestion {
+        margin-top: 3rem;
+        width: 38%;
+    }
+
+    .footerServices {
+        margin-top: 3rem;
+    }
+
+    .aboutSectionBackgroundImg {
+        background-attachment: initial;
+    }
+
+    .imageGalleryContainer .magnificItem {
+        max-width: 380px;
+    }
+
+    .contractForm {
+        width: 100%;
+    }
+
+    .contractDetailsWraper {
+        width: 100%;
+    }
+
+    .contractFormContainer {
+        padding-bottom: 3rem;
+    }
+
+    .backgroundImg {
+        background-attachment: initial;
+    }
+
+}
+
+@media (max-width:575.98px) {
+
+    .logoContainer .logo {
+        padding: 9px 35px;
+    }
+
+    .logoBlock {
+        width: 100%;
+        padding: 9px 35px;
+    }
+
+    .wraper .nav,
+.aboutSectionWraper .nav,
+.rentalSectionWraper .nav,
+.galleryWraper .nav,.blogPageWraper .nav {
+    position: relative;
+}
+
+
+
+    .wraper .nav ul,
+    .aboutSectionWraper .nav ul,
+    .rentalSectionWraper .nav ul,
+    .galleryWraper .nav ul,
+    .blogPageWraper .nav ul {
+        width: 100%;
+        background-color: #042e4f;
+        position: absolute;
+        z-index: 2;
+        transition: 0.4s;
+        transform-origin: top;
+        transform: scaleY(0);
+    }
+
+    
+
+
+    .nav ul li {
+        width: 100%;
+    }
+
+    .nav ul li a {
+        padding: 10px 10px;
+    }
+
+    .backgroundImg,
+    .aboutSectionBackgroundImg {
+        background-attachment: initial;
+        height: 500px;
+        background-size: cover;
+    }
+
+    .backgroundImg .backgroundOverlay h1,
+    .aboutSectionBackgroundImg .backgroundOverlay h1 {
+        width: 100%;
+        font-size: 40px;
+    }
+
+    .backgroundImg .backgroundOverlay p,
+    .aboutSectionBackgroundImg .backgroundOverlay p {
+        width: 90%;
+        line-height: 1;
+        color: #cabebe;
+    }
+
+    span.fa.fa-bars,
+    span.menuText {
+        display: inline-block;
+    }
+
+    .wraper .nav ul.navHeight,
+    .aboutSectionWraper .nav ul.navHeight,
+    .rentalSectionWraper .nav ul.navHeight,
+    .galleryWraper .nav ul.navHeight,
+    .blogPageWraper .nav ul.navHeight {
+        transform: scale(1);
+    }
+
+    div.backgroundImg .backgroundOverlay,
+    .div.aboutSectionBackgroundImg .backgroundOverlay {
+        height: 100%;
+    }
+
+    .ourDetailsBlockContainer {
+        position: initial;
+        width: 100%;
+    }
+
+    .requestQuoteOverlay:before,
+    .requestQuoteOverlay:after {
+        display: none;
+    }
+
+    .detailsIcon {
+        margin-top: 7px
+    }
+
+    .requestQuoteOverlay {
+        position: initial;
+        width: 100%;
+    }
+
+    .ourDetailsBlock {
+        width: 100%;
+    }
+
+    .ourDetailsBlock h1 {
+        padding: 0px;
+        font-size: 30px;
+    }
+
+    .ourDetailsFlex {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .detailsBlock {
+        width: 100%;
+    }
+
+    .detailsText p {
+        width: 100%;
+    }
+
+    .detailsText {
+        width: 100%;
+    }
+
+    .counterText {
+        padding: 29px;
+    }
+
+    .counterSection {
+        flex-direction: column;
+    }
+
+    .counterTextCointer {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .countNumber {
+        width: 100%;
+    }
+
+    .makeAnWeuioment {
+        height: 545px;
+    }
+
+    .makeAnWeuioment:after {
+        width: 72%;
+        right: 0;
+    }
+
+    .rentalServices {
+        width: 95%;
+    }
+
+    .servicesPhoto {
+        height: 285px;
+    }
+
+    .testimonialSliderContainer {
+        width: 95%;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        bottom: -23%;
+        left: 106px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        bottom: -23%;
+        right: 106px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next,
+    .owl-carousel .owl-nav button.owl-prev {
+        font-size: 20px;
+        width: 40px;
+    }
+
+    .footerBlock {
+        width: 100%;
+        padding: 21px;
+    }
+
+    .blogWraper {
+        width: 100%;
+    }
+
+    .blogText {
+        padding: 0px
+    }
+
+    .footer {
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+
+    /* aboutpage responsive design  */
+    .aboutSectionBackgroundImg .backgroundOverlay .aboutUsText h1 {
+        width: 100%;
+        margin-left: 0px;
+        padding-left: 26px;
+    }
+
+    div.aboutSectionBackgroundImg .backgroundOverlay {
+        height: 100%
+    }
+
+    /* service page responsive design  */
+    .rentalSectionWraper .rentalServicesCointainer {
+        width: 100%;
+    }
+
+    .rentalSectionWraper .rentalServicesCointainer .rentalServiceFlex .rentalServices {
+        width: 100%;
+    }
+
+    .rentalPageNav ul {
+        width: 70%;
+    }
+
+    /* gallery page res design */
+    .imageGalleryContainer .magnificItem {
+        max-width: 100%;
+        height: 295px;
+        margin-bottom: 5px;
+    }
+
+    .contractForm {
+        width: 100%;
+    }
+
+    .contractDetailsWraper {
+        width: 100%;
+    }
+
+    .contractFormContainer {
+        padding-bottom: 4rem;
+    }
+
+
+}
