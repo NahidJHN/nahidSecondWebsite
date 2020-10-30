@@ -139,12 +139,12 @@
 @media (max-width:575.98px) {
 
     .logoContainer .logo {
-        padding: 9px 35px;
+        padding: 4px 5px;
     }
 
     .logoBlock {
         width: 100%;
-        padding: 9px 35px;
+        padding: 4px 5px;
     }
 
     .wraper .nav,
@@ -378,6 +378,9 @@
     .contractFormContainer {
         padding-bottom: 4rem;
     }
+    .paperMap {
+    outline: none;
+}
 
 
 }
